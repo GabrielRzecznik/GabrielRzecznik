@@ -31,6 +31,11 @@ Soy Técnico Analista de Sistemas.
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=flat&logo=postgresql&logoColor=white)
 
+## 🏆 Logros y Certificaciones
+
+- Tecnicatura Superior en Análista de Sistemas / 2019 a 2023 – Instituto Beltrán.
+- Curso de Formación Profesional de Diseño de Páginas Web / 2018 – Instituto Beltrán.
+
 <!--
 **GabrielRzecznik/GabrielRzecznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
