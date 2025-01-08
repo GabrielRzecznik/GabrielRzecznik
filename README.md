@@ -31,11 +31,6 @@ Soy Técnico Analista de Sistemas.
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=flat&logo=postgresql&logoColor=white)
 
-### **Otros Conocimientos**
-- Experiencia en desarrollo de sistemas de alquiler temporario y redes sociales.
-- Desarrollo de proyectos con integración de componentes independientes y almacenamiento local (`localStorage`).
-- Conocimientos en Sass para estilos y Angular Material.
-
 <!--
 **GabrielRzecznik/GabrielRzecznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
