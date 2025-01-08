@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Gabriel Rzecznik!
 
-Soy Técnico Analista de Sistemas con conocimientos en diversas áreas de tecnología. Actualmente estoy explorando opciones para continuar mis estudios universitarios en Sistemas, buscando oportunidades que me permitan desarrollarme tanto académica como profesionalmente.
+🧑‍💻 **Sobre mí:** Soy Técnico Analista de Sistemas con conocimientos en diversas áreas de tecnología. Actualmente estoy explorando opciones para continuar mis estudios universitarios en Sistemas, buscando oportunidades que me permitan desarrollarme tanto académica como profesionalmente.
 
 🌟 **Objetivo:** Estoy en busca de mi primera experiencia laboral, con muchas ganas de aprender, crecer y aportar mis conocimientos, desarrollando soluciones creativas y eficientes que hagan la diferencia.
 
