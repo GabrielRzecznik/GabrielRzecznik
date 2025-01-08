@@ -34,6 +34,9 @@
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=flat&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+### **Modelado**
+![UML](https://img.shields.io/badge/UML-2D7E8D?style=flat&logo=uml&logoColor=white)
+
 ## 🏆 Logros y Certificaciones
 
 - Tecnicatura Superior en Análista de Sistemas / 2019 a 2023 – Instituto Beltrán.
