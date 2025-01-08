@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Gabriel Rzecznik!
+
+Soy Técnico Analista de Sistemas con experiencia en desarrollo Frontend, especialmente con Angular, y un apasionado por la tecnología. Actualmente estoy cursando la Licenciatura en Sistemas en la UNLP y la Ingeniería en Informática en la UNDAV.
+
+🌟 **Objetivo:** Seguir creciendo como profesional en el ámbito tecnológico, desarrollando soluciones creativas y eficientes.
+
+📫 **Contacto:** [LinkedIn](https://linkedin.com/in/tu-perfil) | [Correo](mailto:tuemail@example.com)
 
 <!--
 **GabrielRzecznik/GabrielRzecznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
