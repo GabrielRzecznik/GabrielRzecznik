@@ -2,7 +2,7 @@
 
 🧑‍💻 **Sobre mí:** Soy Técnico Analista de Sistemas con conocimientos en diversas áreas de tecnología. Actualmente estoy explorando opciones para continuar mis estudios universitarios en Sistemas, buscando oportunidades que me permitan desarrollarme tanto académica como profesionalmente.
 
-🌟 **Objetivo:** Estoy en busca de mi primera experiencia laboral, con muchas ganas de aprender, crecer y aportar mis conocimientos, desarrollando soluciones creativas y eficientes que hagan la diferencia.
+🌟 **Objetivo:** Estoy en búsqueda de mi primera experiencia laboral, con muchas ganas de poner en práctica mis conocimientos adquiridos durante años de estudio, crecer y aportar, desarrollando soluciones creativas y eficientes que hagan la diferencia.
 
 ## 🛠️ Tecnologías y Herramientas
 
